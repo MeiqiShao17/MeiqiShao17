@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋  I'm Miki
+
+<!-- GitHub 状态展示 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeiqiShao17&show_icons=true&theme=radial" />
+
+<!-- 语言使用统计 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiqiShao&layout=compact&theme=radial" />
 
 <!--
 **MeiqiShao17/MeiqiShao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
