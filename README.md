@@ -6,6 +6,9 @@
 <!-- 语言使用统计 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiqiShao&layout=compact&theme=radial" />
 
+![description](https://img.shields.io/badge/Language-Python-green)
+
+
 <!--
 **MeiqiShao17/MeiqiShao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
