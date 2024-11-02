@@ -8,8 +8,9 @@
 
 ![description](https://img.shields.io/badge/Language-Python-green)
 
+<!-- 通过style设置徽标样式，通过logo设置icon，通过logoColor设置icon颜色 -->
+![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
-<!--
 **MeiqiShao17/MeiqiShao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
